@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gauthiermartin/gauthiermartin/master/images/banner.png">
+<img src="https://raw.githubusercontent.com/gauthiermartin/gauthiermartin/master/images/banner.png" width="300">
 
 ### Hi there 👋
 
