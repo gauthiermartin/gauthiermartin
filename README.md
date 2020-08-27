@@ -53,7 +53,8 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 
 You can find me on Twitter, or on LinkedIn.
 
-- [![Twitter][1.1]][1]
+- Twitter  : [![Twitter][1.1]][1]
+- LinkedIn : [![LinkedIn][3.2]][3]
 
 
 <!-- icons with padding -->
