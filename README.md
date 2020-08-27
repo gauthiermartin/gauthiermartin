@@ -6,7 +6,8 @@ I'm mainly focusing on AI development but along my exeperiences I have acquired 
 
 ### Current Focus
 
-I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet. In a near future I would like to start a personnal blog on [Medium](www.medium.com)
+I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet. 
+In a near future I would like to start a personnal blog on [Medium](www.medium.com)
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00AEFF)
