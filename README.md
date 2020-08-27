@@ -50,3 +50,18 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 <br />
 
 ### How to reach me 📫
+
+You can find me on Twitter, or on LinkedIn.
+
+- [![Twitter][1.1]][1]
+
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+
+<!-- links to your social media accounts -->
+[1]: https://twitter.com/MGauthier86
+[2]: https://github.com/gauthiermartin
+[3]: https://www.linkedin.com/in/martin-gauthier-963710100/
