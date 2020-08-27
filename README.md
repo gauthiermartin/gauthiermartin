@@ -4,12 +4,12 @@ My name is Martin Gauthier and I am a Software Enginneering student at [ETS](htt
 
 I'm mainly focusing on AI development but along my exeperiences I have acquired knowledge in python, web developement, DevOps and application deployment.
 
-### :mag_right: Current Focus
+### Current Focus :mag_right:
 
 I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet. 
 In a near future I would like to start a personnal blog on [Medium](www.medium.com)
 
-### Technologies & Tools
+### Technologies & Tools :hammer:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=00AEFF)
 
@@ -28,8 +28,7 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=00AEFF)
 
-### GitHub Stats
-
+### GitHub Stats :bar_chart:
 <a href="https://github.com/gauthiermartin/gauthiermartin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=html,assembly,groovy&theme=algolia" />
 </a>
@@ -47,4 +46,4 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 --> 
 
 
-### 📫 How to reach me 
+### How to reach me 📫
