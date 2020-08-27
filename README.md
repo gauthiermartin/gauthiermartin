@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/gauthiermartin/gauthiermartin/master/images/banner.png">
+
 ### Hi there 👋
 
 My name is Martin Gauthier and I am a Software Enginneering student at [ETS](https://www.etsmtl.ca/en/home) located in Montreal.
@@ -60,7 +62,7 @@ You can find me on Twitter, or on LinkedIn.
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1.2]: https://raw.githubusercontent.com/gauthiermartin/gauthiermartin/master/icons/linkedin-3-16.png (linkedIn icon with padding)
+[1.2]: https://raw.githubusercontent.com/gauthiermartin/gauthiermartin/master/images/linkedin-3-16.png (linkedIn icon with padding)
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/MGauthier86
