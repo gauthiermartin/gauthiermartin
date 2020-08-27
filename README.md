@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/gauthiermartin/gauthiermartin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=java,html,css&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=java,html,css,shell,assembly, groovy&theme=algolia" />
 </a>
 <a href="https://github.com/gauthiermartin/gauthiermartin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauthiermartin&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Martin's GitHub Stats" />
