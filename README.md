@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 
-My name is Martin Gauthier and I am a Software Enginneering student at [ETS](https://www.etsmtl.ca/en/home) located in Montreal.
+My name is Martin Gauthier and I am a Software Engineering student at [ETS](https://www.etsmtl.ca/en/home) located in Montreal.
 
-I'm mainly focusing on AI development but along my exeperiences I have acquired knowledge in python, web developement, DevOps and application deployment.
+I'm mainly focusing on AI development but along my experiences, I have acquired knowledge in python, web development, DevOps, and application deployment.
 <br />
 ### Current Focus :mag_right:
 
-I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet.
+I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple data science projects.
 In a near future I would like to start a personnal blog on [Medium](www.medium.com)\
 <br />
 ### Technologies & Tools :hammer:
@@ -53,7 +53,7 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 
 ### How to reach me 📫
 
-You can find me on Twitter, or on LinkedIn.
+You can find me on Twitter, or LinkedIn.
 
 - Twitter  : [![Twitter][1.1]][1]
 - LinkedIn : [![LinkedIn][1.2]][2]
