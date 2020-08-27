@@ -44,7 +44,7 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 <a href="https://github.com/gauthiermartin/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauthiermartin&repo=go-project-blueprint&theme=algolia" />
 </a>    
---!> 
+--> 
 
 
 ### 📫 How to reach me 
