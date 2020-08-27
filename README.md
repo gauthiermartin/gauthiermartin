@@ -60,7 +60,7 @@ You can find me on Twitter, or on LinkedIn.
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1.2]: https://imgur.com/a/bRVeOQJ (linkedIn icon with padding)
+[1.2]: https://www.sendible.com/hubfs/Sendible_March2018/Images/linkedin-black-60.png (linkedIn icon with padding)
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/MGauthier86
