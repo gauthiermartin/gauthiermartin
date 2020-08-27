@@ -11,9 +11,9 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Tools-Tensoroflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tensoroflow-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tensoroflow-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
 <!--
 **gauthiermartin/gauthiermartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
