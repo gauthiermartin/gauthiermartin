@@ -54,15 +54,14 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 You can find me on Twitter, or on LinkedIn.
 
 - Twitter  : [![Twitter][1.1]][1]
-- LinkedIn : [![LinkedIn][3.2]][3]
+- LinkedIn : [![LinkedIn][1.2]][2]
 
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
+[1.1]: https://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.2]: https://imgur.com/a/bRVeOQJ (linkedIn icon with padding)
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/MGauthier86
-[2]: https://github.com/gauthiermartin
-[3]: https://www.linkedin.com/in/martin-gauthier-963710100/
+[2]: https://www.linkedin.com/in/martin-gauthier-963710100/
