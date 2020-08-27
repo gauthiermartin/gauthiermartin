@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Martin Gauthier and I am a Software Enginneering student at [ETS](https://www.etsmtl.ca/en/home) located in Montreal.
+
+I'm mainly focusing on AI development but along my exeperiences I have acquired knowledge in python, web developement, DevOps and application deployment.
+
+### Current Focus
+
+I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet. In a near future I would like to start a personnal blog on [Medium](www.medium.com)
+
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=00AEFF)
@@ -21,27 +29,21 @@
 
 ### GitHub Stats
 
-
 <a href="https://github.com/gauthiermartin/gauthiermartin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=html,assembly, groovy&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=html,assembly,groovy&theme=algolia" />
 </a>
 <a href="https://github.com/gauthiermartin/gauthiermartin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauthiermartin&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Martin's GitHub Stats" />
 </a>
 
+<a href="https://github.comg/gauthiermartin/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauthiermartin&repo=python-project-blueprint&theme=algolia" />
+</a>
 
 
-<!--
-**gauthiermartin/gauthiermartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/gauthiermartin/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauthiermartin&repo=go-project-blueprint&theme=algolia" />
+</a>    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me 
