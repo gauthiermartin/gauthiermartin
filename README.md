@@ -65,3 +65,11 @@ You can find me on Twitter, or on LinkedIn.
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/MGauthier86
 [2]: https://www.linkedin.com/in/martin-gauthier-963710100/
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
