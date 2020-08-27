@@ -37,14 +37,14 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauthiermartin&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Martin's GitHub Stats" />
 </a>
 
+<!--
 <a href="https://github.comg/gauthiermartin/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauthiermartin&repo=python-project-blueprint&theme=algolia" />
 </a>
-
-
 <a href="https://github.com/gauthiermartin/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauthiermartin&repo=go-project-blueprint&theme=algolia" />
 </a>    
+--!> 
 
 
 ### 📫 How to reach me 
