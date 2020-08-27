@@ -23,7 +23,7 @@
 
 
 <a href="https://github.com/gauthiermartin/gauthiermartin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=java,html,css&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=java,html,css&theme=algolia" />
 </a>
 
 
