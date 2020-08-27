@@ -6,7 +6,7 @@ I'm mainly focusing on AI development but along my exeperiences I have acquired 
 <br />
 ### Current Focus :mag_right:
 
-I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet. 
+I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet.
 In a near future I would like to start a personnal blog on [Medium](www.medium.com)\
 <br />
 ### Technologies & Tools :hammer:
@@ -45,8 +45,8 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 </a>
 <a href="https://github.com/gauthiermartin/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauthiermartin&repo=go-project-blueprint&theme=algolia" />
-</a>    
---> 
+</a>
+-->
 <br />
 
 ### How to reach me 📫
@@ -60,7 +60,7 @@ You can find me on Twitter, or on LinkedIn.
 <!-- icons with padding -->
 
 [1.1]: https://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1.2]: https://www.sendible.com/hubfs/Sendible_March2018/Images/linkedin-black-60.png (linkedIn icon with padding)
+[1.2]: https://raw.githubusercontent.com/gauthiermartin/gauthiermartin/master/icons/linkedin-3-16.png (linkedIn icon with padding)
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/MGauthier86
