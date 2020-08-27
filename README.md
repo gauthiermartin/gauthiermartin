@@ -26,7 +26,9 @@ In a near future I would like to start a personnal blog on [Medium](www.medium.c
 
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=00AEFF)
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=00AEFF)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=00AEFF)\
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=00AEFF)
+
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=00AEFF)
 <br />
 ### GitHub Stats :bar_chart:
 
