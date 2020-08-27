@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔧 Technologies & Tools
+### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
-### &#x1f4c8; GitHub Stats
+### GitHub Stats
 
 <a href="https://github.com/gauthiermartin/gauthiermartin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthiermartin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
