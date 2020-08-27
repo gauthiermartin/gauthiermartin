@@ -4,7 +4,7 @@ My name is Martin Gauthier and I am a Software Enginneering student at [ETS](htt
 
 I'm mainly focusing on AI development but along my exeperiences I have acquired knowledge in python, web developement, DevOps and application deployment.
 
-### Current Focus
+### :mag_right: Current Focus
 
 I'm currently working on mastering [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/) and eager to do multiple datascience projet. 
 In a near future I would like to start a personnal blog on [Medium](www.medium.com)
